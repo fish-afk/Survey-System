@@ -1,0 +1,32 @@
+<configuration>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="C1.Win.C1Ribbon.4" culture="neutral" publicKeyToken="79882d576c6336da"/>
+        <!--oldVersion should equal "4.0.20141.570"  newVersion should be set to the current version in your project to avoid build errors -->
+        <bindingRedirect oldVersion="4.0.20141.570" newVersion="Add New Value Here"/>
+      </dependentAssembly>
+    </assemblyBinding>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="C1.Win.C1Themes.4" culture="neutral" publicKeyToken="594a0605db190bb9"/>
+        <!--oldVersion should equal "4.0.20141.51"  newVersion should be set to the current version in your project to avoid build errors -->
+        <bindingRedirect oldVersion="4.0.20141.51" newVersion="Add New Value Here"/>
+      </dependentAssembly>
+    </assemblyBinding>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="C1.Win.C1SuperTooltip.4" culture="neutral" publicKeyToken="79882d576c6336da"/>
+        <!--oldVersion should equal "4.0.20141.137"  newVersion should be set to the current version in your project to avoid build errors -->
+        <bindingRedirect oldVersion="4.0.20141.137" newVersion="Add New Value Here"/>
+      </dependentAssembly>
+    </assemblyBinding>
+      <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+        <dependentAssembly>
+          <assemblyIdentity name="C1.Win.C1Input.4" culture="neutral" publicKeyToken="7e7ff60f0c214f9a"/>
+          <!--oldVersion should equal "4.0.20141.33362"  newVersion should be set to the current version in your project to avoid build errors -->
+          <bindingRedirect oldVersion="4.0.20141.33362" newVersion="Add New Value Here"/>
+        </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
